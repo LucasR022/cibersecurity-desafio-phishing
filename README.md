@@ -2,7 +2,7 @@
 
 Desafio de Projeto do [Santander Bootcamp Cibersegurança #2](https://www.dio.me/bootcamp/santander-ciberseguranca-2024)
 
-Objetivo: Criar um Phishing que simule a pagina de login do Facebook com o objetivo de capturar login e senha.
+Objetivo: Criar um Phishing que clone uma pagina da web e capturare o login e senha.
 
 ### Ferramentas Utilizadas
 
